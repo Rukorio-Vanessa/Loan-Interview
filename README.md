@@ -30,14 +30,14 @@ This project provides a RESTful API for managing users and their loan requests. 
 
 Clone the repository and create a Python virtual environment:
 
-git clone https://github.com/Rukorio-Vanessa/Loan-Interview
-cd loan_request_platform
-python3 -m venv venv
-source venv/bin/activate
+- git clone https://github.com/Rukorio-Vanessa/Loan-Interview
+- cd loan_request_platform
+- python3 -m venv venv
+- source venv/bin/activate
 
 ## Apply migrations and create a superuser:
-python manage.py migrate
-python manage.py createsuperuser
+- python manage.py migrate
+- python manage.py createsuperuser
 
 ## Run the development server:
 python manage.py runserver at http://127.0.0.1:8000/
