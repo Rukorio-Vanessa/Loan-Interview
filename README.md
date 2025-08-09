@@ -1,4 +1,4 @@
-Vanessa Loans - Mini Loan Request Platform
+# Vanessa Loans - Mini Loan Request Platform
 
 Welcome to **Vanessa Loans** — a simple Django-based backend API designed to handle user registrations and loan requests, including basic loan status management and integration with a credit scoring webhook.
 
