@@ -1,4 +1,4 @@
-# Vanessa Loans - Loan Request Platform
+Vanessa Loans - Mini Loan Request Platform
 
 Welcome to **Vanessa Loans** — a simple Django-based backend API designed to handle user registrations and loan requests, including basic loan status management and integration with a credit scoring webhook.
 
@@ -30,7 +30,7 @@ This project provides a RESTful API for managing users and their loan requests. 
 
 Clone the repository and create a Python virtual environment:
 
-git clone <repo_url>
+git clone https://github.com/Rukorio-Vanessa/Loan-Interview
 cd loan_request_platform
 python3 -m venv venv
 source venv/bin/activate
